@@ -1,6 +1,8 @@
 **HIVE**
 <br>
 
+**Due to time constraint i have done assignment only in hive. I can write all these in mapreduce programs also**
+
 First i showed output and codes of preprocessing. After preprocessing steps are completed query for each question is shown at the end of this file.
 
 **If you want to refer to problems&answers directly please look at the end of document**
