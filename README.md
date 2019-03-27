@@ -28,14 +28,14 @@ Table2 tvshow_views is created. And then loaded tvshow and views data into table
 Showing number of records in table tvshow_views.
 <img src="https://github.com/ManeeshDanthala/bigdata_task/blob/master/images/no_of_records_table2.PNG" height="200" width="720" hspace="5" vspace="5"/><br>
 
-Table tvshow_channel is updated from (tvshow,channel) to (channel,array(tvshow)) into new table tvshow_channel_updated.
+Table1 tvshow_channel is updated from (tvshow,channel) to (channel,array(tvshow)) into new table tvshow_channel_updated.
  <img src="https://github.com/ManeeshDanthala/bigdata_task/blob/master/images/updated_table1.PNG" height="270" width="720" hspace="5" vspace="5"/><br>
 Number of rows of updated tvshow_channel_updated are.<br>
 <img src="https://github.com/ManeeshDanthala/bigdata_task/blob/master/images/no_rows_updated_tb1.PNG" height="40" width="400" hspace="5" vspace="5"/><br>
-Displaying table tvshow_channel_updated(channel,array(tvshows)).
+Displaying table1 tvshow_channel_updated(channel,array(tvshows)).
 <img src="https://github.com/ManeeshDanthala/bigdata_task/blob/master/images/display_updated_table1.PNG" height="400" width="920" hspace="5" vspace="5"/><br>
 
-Table tvshow_views is updated from multiple entries for a purticular tvshow to single entry with aggregation of viewers for respective tvshow into new table tvshow_views_updated.
+Table2 tvshow_views is updated from multiple entries for a purticular tvshow to single entry with aggregation of viewers for respective tvshow into new table tvshow_views_updated.
 <img src="https://github.com/ManeeshDanthala/bigdata_task/blob/master/images/table2_updated.PNG" height="270" width="720" hspace="5" vspace="5"/><br>
 Following is number of rows of Tvshow_views_updated.<br>
 <img src="https://github.com/ManeeshDanthala/bigdata_task/blob/master/images/table2_updated_rows.PNG" height="50" width="400" hspace="5" vspace="5"/><br>
